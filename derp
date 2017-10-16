@@ -1,0 +1,9 @@
+derpie derp derp
+
+derp derp derp
+
+var derp = true;
+
+while(derp=true) {
+    echo "derp";
+}
