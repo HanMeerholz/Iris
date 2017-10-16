@@ -1,0 +1,11 @@
+Testing 1...2...3...
+
+var testing = 1;
+
+if(testing=1) {
+testing = 2;
+}
+
+if(testing=2) {
+testing = 3;
+}
