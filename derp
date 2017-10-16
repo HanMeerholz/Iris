@@ -7,3 +7,13 @@ var derp = true;
 while(derp=true) {
     echo "derp";
 }
+
+for(i=0; i<infinity; i++) {
+console.log(derp);
+}
+
+if(derp=true) {
+    derp = trueer;
+} else {
+    derp = less true, but still true; /*"less true, but still true" is a boolean, not a string*/
+}
