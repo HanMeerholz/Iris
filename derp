@@ -9,7 +9,7 @@ while(derp=true) {
 }
 
 for(i=0; i<infinity; i++) {
-console.log(derp);
+console.log(derp*i);
 }
 
 if(derp=true) {
